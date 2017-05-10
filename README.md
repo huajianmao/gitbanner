@@ -1,5 +1,7 @@
 # gitbanner
 
+[![Join the chat at https://gitter.im/gitbanner/Lobby](https://badges.gitter.im/gitbanner/Lobby.svg)](https://gitter.im/gitbanner/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project is used to generate a github contributions banner.
 
 The main idea is:
